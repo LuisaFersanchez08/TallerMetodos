@@ -1,0 +1,2 @@
+1. Es por tema de repetir código, esto evitar crear unas 100 veces como ejemplo ciertas propiedades o estructuras, simplifica o facilita el código.
+Porque This permite que el objeto identifique los datos que se están solicitando
