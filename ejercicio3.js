@@ -1,7 +1,7 @@
 function Estudiante(nombre, curso, nota){
-    this.nombre;
-    this.curso;
-    this.nota;
+    this.nombre= nombre;
+    this.curso = curso;
+    this.nota = nota;
 
 
     this.aprobado= this.nota >=3.0;
